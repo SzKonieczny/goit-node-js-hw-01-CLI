@@ -8,7 +8,7 @@ This App allows you to manage contact list by displaying, adding, removing, and 
 
 node index.js --action list
 
-[!App look](./img/Contact%20List%20Display_jpg.jpg)
+./img/Contact%20List%20Display_jpg.jpg
 
 **Contact adding:**
 
