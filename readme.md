@@ -26,4 +26,4 @@ node index.js --action remove --id (type id number)
 
 node index.js --action get --id (type id number)
 
-![App look](./img/Contact%20Fetching.png)
+![App look](./img/Contact%20serching.jpg)
